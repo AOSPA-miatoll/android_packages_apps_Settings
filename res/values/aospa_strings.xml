@@ -262,4 +262,8 @@
     <string name="less_boring_heads_up_title">Saner heads up</string>
     <string name="less_boring_heads_up_summary">Show heads up only for calls, messages, alarms, reminders and priority conversations</string>
 
+    <!-- If blurs are supported on SurfaceFlinger. [CHAR LIMIT=60] -->
+    <string name="enable_blurs_on_windows_title">Enable blurs</string>
+    <string name="enable_blurs_on_windows_summary">Enables blur effect in some UI elements</string>
+
 </resources>
