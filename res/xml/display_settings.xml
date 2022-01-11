@@ -153,6 +153,12 @@
             android:key="lift_to_wake"
             android:title="@string/lift_to_wake_title"/>
 
+        <co.aospa.framework.preference.SystemSettingSwitchPreference
+            android:key="double_tap_sleep_gesture"
+            android:title="@string/double_tap_sleep_gesture_title"
+            android:summary="@string/double_tap_sleep_gesture_summary"
+            android:defaultValue="false" />
+
         <ListPreference
             android:key="theme"
             android:title="@string/device_theme"
